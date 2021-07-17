@@ -1,7 +1,7 @@
-package ep2;
-
-public class IfTest {
-	public static void main(String[] args) throws Exception {
+//package ep2;
+//
+//public class IfTest {
+//	public static void main(String[] args) throws Exception {
 		
 //		if (true) {
 //			System.out.println("Hello.true");
@@ -42,5 +42,5 @@ public class IfTest {
 //		}
 		
 		
-	}
-}
+//	}
+//}
