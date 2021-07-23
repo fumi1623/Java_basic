@@ -14023,3 +14023,63 @@ Binding(COMMAND+-,
 
 !ENTRY org.eclipse.ui 2 2 2021-07-21 03:43:49.437
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 06:28:51.345
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.HJGfvQjj
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 06:28:51.346
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.HJGfvQjj
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 06:28:51.346
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 06:28:51.347
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.HJGfvQjj => OK
+
+!ENTRY org.eclipse.ui.navigator 2 0 2021-07-24 06:29:10.499
+!MESSAGE Can't find Navigator Content Descriptor with id: org.eclipse.jst.servlet.ui.EnhancedJavaRendering
+
+!ENTRY org.eclipse.ui.navigator 2 0 2021-07-24 06:29:10.500
+!MESSAGE Can't find Navigator Content Descriptor with id: org.eclipse.jst.servlet.ui.EnhancedJavaRendering
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 06:29:56.679
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 06:29:56.679
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@3ad7fdd8[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=1007)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 06:29:56.679
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 06:29:59.891
+!MESSAGE 起動から初期化までの Boot LS 起動時間: 3211ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 06:30:00.011
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.eTlHQDFyisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 06:30:00.012
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 06:30:00.012
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 06:30:00.013
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 06:30:00.013
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 06:30:00.013
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.eTlHQDFy => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 06:30:00.014
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 06:30:00.014
+!MESSAGE buffering callback sts4.classpath.eTlHQDFy ep1 false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 06:30:00.014
+!MESSAGE executing callback sts4.classpath.eTlHQDFy 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-24 06:30:00.461
+!MESSAGE executing callback sts4.classpath.eTlHQDFy SUCCESS [done]
