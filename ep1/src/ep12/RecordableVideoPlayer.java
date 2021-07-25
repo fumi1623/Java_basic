@@ -1,5 +1,5 @@
 package ep12;
 
-public class RecordableVideoPlayer {
-
+public interface RecordableVideoPlayer extends VideoPlayer {
+	void record();
 }
